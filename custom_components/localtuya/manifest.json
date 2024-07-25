@@ -1,0 +1,14 @@
+{
+  "domain": "localtuyabms01",
+  "name": "LocalTuya integration BMS 01",
+  "codeowners": [
+    "@rospogrigio", "@postlund"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/rospogrigio/localtuya/",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/rospogrigio/localtuya/issues",
+  "requirements": [],
+  "version": "5.2.1"
+}
